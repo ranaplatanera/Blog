@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: rgb(185, 207, 255);
+    width: 100%;
+    height: 100%;
+    border: 2px solid black;
+    padding: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: rgb(218, 218, 218);
+    font-family: 'Roboto', sans-serif;
+}
+
+.a {
+    display: block;
+    height: 20%;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    padding:20px;
+    border-radius: 12px;
+}
+
+#caja {
+    background-color:rgb(121, 121, 121);
+    border: 5px solid rgb(121, 121, 121);
+    color: white;
+}
+
+article {
+    background-color: white;
+    border: 5px solid white;
+    height: 20%;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    padding:20px;
+    border-radius: 12px;
+}
+
+.link {
+    position: absolute;
+    right: 200px;
+    padding: 0px;
+}
+
+form {
+    background-color: rgb(87, 87, 153);
+    border: 5px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 71%;
+    padding:10px;
+    text-align: center;
+    color: white;
+}
+
+input {
+    border-style: dotted;
+    border-color: black;
+}
+
+button {
+    border-radius: 5px;
+    width: 200px;
+    padding: 2px;
+    font-weight: 600;
+    background-color:rgb(121, 121, 121);
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+}
